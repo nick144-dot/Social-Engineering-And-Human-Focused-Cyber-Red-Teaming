@@ -193,7 +193,7 @@ Phishing is still one of the most effective attack methods because it targets pe
 
 Attackers gained access through a third-party HVAC vendor, not directly through Target’s systems. This is a good example of how attackers look for the weakest link, not the most obvious one.
 
----## 🎤 Events / Conferences
+## 🎤 Events / Conferences
 
 These are some of the main conferences where new tools, techniques, and research are shared. Even if you don’t attend in person, a lot of them publish talks and content online.
 
