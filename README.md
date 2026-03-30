@@ -174,6 +174,13 @@ These are examples of real-world attacks or interesting security concepts that s
 
 ---
 
+### 🕵️ FBI Cyber Most Wanted
+🔗 https://www.fbi.gov/wanted/cyber  
+
+Collection of wanted cyber criminals involved in things like ransomware, fraud, and nation-state attacks. This is useful for seeing real-world adversaries and how cyber attacks actually happen outside of lab environments.
+
+---
+
 ### 🐕 Detection Dogs for Electronic Devices
 🔗 https://www.wired.com/story/digital-detection-dogs/  
 
