@@ -1,4 +1,4 @@
-# Awesome Social Engineering & Human-Focused Red Teaming
+# Social Engineering & Human-Focused Red Teaming
 
 A curated collection of resources, tools, and concepts focused on how attackers exploit human behavior in cybersecurity.
 
