@@ -156,6 +156,18 @@ Beginner-friendly platform with guided paths that teach cybersecurity concepts s
 
 ## 📟 Hardware / Physical Hacking
 
+#### 🔐 Lockpicking Forensics
+🔗 https://www.lockpickingforensics.com/  
+
+Focused on analyzing locks and determining how they were bypassed. Useful for understanding physical security weaknesses and how attackers manipulate mechanical systems.
+
+---
+
+#### 🗝️ LockWiki
+🔗 https://www.lockwiki.com/  
+
+A community-driven resource covering different types of locks, tools, and bypass techniques. Good reference for learning how physical security systems work and where they can fail.
+
 #### Flipper Zero
 🔗 https://flipperzero.one/  
 
