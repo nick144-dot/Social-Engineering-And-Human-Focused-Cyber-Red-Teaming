@@ -154,7 +154,7 @@ Beginner-friendly platform with guided paths that teach cybersecurity concepts s
 
 ---
 
-### 📟 Hardware / Physical Hacking
+## 📟 Hardware / Physical Hacking
 
 #### Flipper Zero
 🔗 https://flipperzero.one/  
