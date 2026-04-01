@@ -8,19 +8,6 @@ This is where I’d actually go to learn, ask questions, and see how people thin
 
 
 
-### 📰 Vice Tech / Motherboard
-🔗 https://www.vice.com/en/section/tech/  
-
-Vice’s technology and cybersecurity section (formerly known as Motherboard), covering topics like hacking, privacy, and digital security. Good for staying current on real-world tech issues and how cybersecurity impacts society. :contentReference[oaicite:0]{index=0}
-
----
-
-### 🔐 Have I Been Pwned
-🔗 https://haveibeenpwned.com/  
-
-A tool that lets you check if your email or accounts have been exposed in known data breaches. Useful for understanding how often personal data is leaked and improving your own security practices.
-
-
 ### 🧠 Hack The Box (Platform + Discord)
 🔗 https://www.hackthebox.com/  
 🔗 https://discord.gg/hackthebox  
@@ -82,6 +69,12 @@ These are people and organizations I’ve come across that actually produce usef
 
 ---
 
+### 📰 Vice Tech / Motherboard
+🔗 https://www.vice.com/en/section/tech/  
+
+Vice’s technology and cybersecurity section (formerly known as Motherboard), covering topics like hacking, privacy, and digital security. Good for staying current on real-world tech issues and how cybersecurity impacts society. :contentReference[oaicite:0]{index=0}
+
+
 ### 🎥 Deviant Ollam
 🔗 https://www.youtube.com/@DeviantOllam  
 
@@ -129,6 +122,13 @@ These are tools and platforms I’ve either used or come across while learning. 
 ---
 
 ### 🔍 Recon / OSINT
+
+#### 🔐 Have I Been Pwned
+🔗 https://haveibeenpwned.com/  
+
+A tool that lets you check if your email or accounts have been exposed in known data breaches. Useful for understanding how often personal data is leaked and improving your own security practices.
+
+
 
 #### OSINT Framework
 🔗 https://osintframework.com/  
