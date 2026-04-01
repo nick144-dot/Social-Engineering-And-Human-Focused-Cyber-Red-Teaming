@@ -1,5 +1,22 @@
-# Social Engineering And Human-Focused Cyber Red Teaming
-Exploring how attackers exploit human behavior in cyber environments through social engineering, real-world scenarios, and red teaming techniques.
+# Awesome Social Engineering & Human-Focused Red Teaming
+
+A curated collection of resources, tools, and concepts focused on how attackers exploit human behavior in cybersecurity.
+
+---
+
+## Contents
+- [Communities](#-communities)
+- [Researchers](#-researchers--people-to-follow)
+- [Tools](#-tools)
+- [Writeups / Case Studies](#-writeups--case-studies)
+- [Events / Conferences](#-events--conferences)
+- [Starter Projects](#-starter-projects)
+
+
+
+
+
+
 ## 🌐 Communities
 
 This is where I’d actually go to learn, ask questions, and see how people think through real problems. If you're just getting into cybersecurity or red teaming, I’d start with structured platforms like TryHackMe, then move into Hack The Box, and use communities like Reddit and Discord to fill in gaps, ask questions, and stay current.
