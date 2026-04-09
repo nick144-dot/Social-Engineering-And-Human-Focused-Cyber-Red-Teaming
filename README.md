@@ -41,7 +41,7 @@ More beginner-friendly than Hack The Box, with structured learning paths that wa
 ### 🛡️ RedTeam.VIP
 🔗 https://redteam.vip/
 
-A training site focused on practical red teaming beyond just pentesting, with an emphasis on physical security, social engineering, covert entry, and cyber access. Useful for exploring how real-world red team operations blend human, physical, and technical attack paths. :contentReference[oaicite:0]{index=0}
+A training site focused on practical red teaming beyond just pentesting, with an emphasis on physical security, social engineering, covert entry, and cyber access. Useful for exploring how real-world red team operations blend human, physical, and technical attack paths.
 
 ---
 
