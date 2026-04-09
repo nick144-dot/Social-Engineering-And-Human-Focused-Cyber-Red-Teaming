@@ -38,6 +38,11 @@ One of the best places to actually *do* cybersecurity, not just read about it. T
 
 More beginner-friendly than Hack The Box, with structured learning paths that walk you through concepts step-by-step. This is where I’d start if I needed to build a foundation before jumping into harder labs.
 
+### 🛡️ RedTeam.VIP
+🔗 https://redteam.vip/
+
+A training site focused on practical red teaming beyond just pentesting, with an emphasis on physical security, social engineering, covert entry, and cyber access. Useful for exploring how real-world red team operations blend human, physical, and technical attack paths. :contentReference[oaicite:0]{index=0}
+
 ---
 
 ### 📰 r/netsec
